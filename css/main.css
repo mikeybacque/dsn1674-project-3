@@ -31,3 +31,72 @@ main {
   position:relative;
   z-index: 100;
 }
+
+h1,h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1em;
+}
+
+h1 {
+  padding: 1em 1.5em 0em 1.5em ;
+  color: #fff;
+  font-weight: normal;
+  line-height: 1.5em;
+  margin: 0;
+}
+
+hr {
+  margin: 0.5em 1.5em 0em 1.5em;
+}
+
+nav ol {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+}
+
+nav li {
+  display: inline-block;
+  padding: 0.5em 0.5em 1em 0.5em;
+}
+
+li a {
+  text-decoration: none;
+  color: #fff;
+  font-size: 0.6em;
+  letter-spacing: 1px;
+
+}
+
+p {
+  font-family: 'Lora', serif;
+  line-height: 1.5em;
+  margin: 0;
+  padding: 1em;
+}
+
+.nav {
+  background-color: #231f20;
+}
+
+.about {
+  background-color: #f9f4f2;
+}
+
+.contact {
+  background-image: url("../img/contact.png");
+  background-size: 100%;
+  padding: 2em;
+  margin: 1em;
+  color: #fff;
+}
+
+.contact p {
+  font-size: .9em;
+  line-height: 1.5em;
+}
+
+.hours {
+
+}
