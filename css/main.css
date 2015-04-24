@@ -96,15 +96,45 @@ p {
   background-image: url("../img/contact.png");
   background-size: 100%;
   padding: 2em;
-  margin: 1em;
+  margin: 1em 1em 0em 1em;
   color: #fff;
 }
 
 .contact p {
   font-size: .9em;
   line-height: 1.5em;
+  padding-top: 0em;
 }
 
 .hours {
+  background-color: #d8d3d1;
+  padding: 1em;
+}
 
+.hours p{
+  font-size: .9em;
+  padding-top: 0em;
+}
+
+.crepes {
+  background-color: #f9f4f2;
+  padding: 1em;
+}
+
+.crepes p {
+  padding-top: 0em;
+}
+
+.chocolate-img {
+  display: block;
+}
+
+.chocolate {
+  background-color: #3c2415;
+  padding: 1em;
+  color: #fff;
+}
+
+.chocolate p {
+  padding-top: 0em;
 }
