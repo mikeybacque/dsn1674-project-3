@@ -88,6 +88,10 @@ p {
   background-color: #f9f4f2;
 }
 
+.restaurant {
+  display: block;
+}
+
 .contact {
   background-image: url("../img/contact.png");
   background-size: 100%;
