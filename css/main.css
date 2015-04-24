@@ -106,6 +106,10 @@ p {
   padding-top: 0em;
 }
 
+.contact a {
+  color: #fff;
+}
+
 .hours {
   background-color: #d8d3d1;
   padding: 1em;
