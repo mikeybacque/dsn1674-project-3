@@ -138,3 +138,22 @@ p {
 .chocolate p {
   padding-top: 0em;
 }
+
+.coffee-img {
+  display: block;
+}
+
+.coffee {
+  background-color: #231f20;
+  padding: 1em;
+  color: #fff;
+}
+
+.coffee p {
+  padding-top: 0em;
+}
+
+.events-img {
+  margin: 1em 1em 0em 1em;
+  width: calc(100% - 2em);
+}
