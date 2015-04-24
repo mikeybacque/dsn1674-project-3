@@ -20,6 +20,10 @@ img {
   z-index: 0;
 }
 
+.header-img {
+  display: block;
+}
+
 .logo {
   position: fixed;
   top: 14%;
