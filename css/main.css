@@ -179,6 +179,7 @@ p {
   padding: 1em;
   border: 1px solid #fff;
   border-radius: 4px;
+  display: block;
 }
 
 .contact-2 h2 {
